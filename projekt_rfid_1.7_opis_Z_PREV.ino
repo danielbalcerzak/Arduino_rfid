@@ -1,12 +1,3 @@
-/*
- ---------------------------------------------
- Szczecińska Szkoła Wyższa Collegium Balticum
- 
- PROJEKT ELEKTRO-ZAMKA Z DOSTĘPEM DO RFID
- Autor: Daniel Balcerzak
- ---------------------------------------------
-*/
-
 // Dołączenie biobliotek użytych w projekcie
 
 #include <SPI.h>
